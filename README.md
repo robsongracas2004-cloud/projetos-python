@@ -1,1 +1,1 @@
-# repositorio com pequenas atividades de logica que fiz em sala.
+repositorio com pequenas atividades de logica que fiz em sala.
